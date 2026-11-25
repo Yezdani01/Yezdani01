@@ -19,6 +19,9 @@
   <a href="mailto:yezdanihamza@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://leetcode.com/u/hamza_5/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
 
 ---
@@ -188,12 +191,26 @@ First Class with Distinction
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yezdani01&theme=github-dark&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
+
 ---
+
+## 🧩 LeetCode Statistics
+
+<p align="center">
+  <a href="https://leetcode.com/u/hamza_5/">
+    <img src="https://leetcard.jacoblin.cool/hamza_5?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats"/>
+  </a>
+</p>
+
+
+---
+
 
 ## 🤝 Connect With Me
 
 - Portfolio: [yezdanihamza.netlify.app](https://yezdanihamza.netlify.app)
 - LinkedIn: [linkedin.com/in/yezdanihamza](https://linkedin.com/in/yezdanihamza)
+- [LeetCode](https://leetcode.com/u/hamza_5/)
 - Email: [yezdanihamza@gmail.com](mailto:yezdanihamza@gmail.com)
 
 ---
